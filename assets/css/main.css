@@ -1028,3 +1028,7 @@ will-change: transform;
     margin-top: 45px;
    position: relative;
 } */
+.chart_note:hover{
+    background-color: #5cf484;
+    
+}
